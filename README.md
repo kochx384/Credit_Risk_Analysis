@@ -1,6 +1,6 @@
 # Credit Risk Analysis
 ## Overview
-The purpose of this analysis is to employ different techniques to train and evaluate models using a credit card dataset to see whether they should be used to predict credit risk. We want to see how all the factors in our resource dataset (loan_stats.csv) help predict whether a person is of low or high risk status. We create a model to predict the credit risk of an individual, and then we train the model for better accuracy and evaluate whether it can be used to predict credit risk of people. 
+The purpose of this analysis is to employ different techniques to train and evaluate models using a credit card dataset to see whether they should be used to predict credit risk. We want to see how all the factors in our resource dataset (LoanStats_2019Q1.csv) help predict whether a person is of low or high risk status. We create a model to predict the credit risk of an individual, and then we train the model for better accuracy and evaluate whether it can be used to predict credit risk of people. 
 
 ## Results
 ### Naive Random Oversampling
